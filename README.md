@@ -1,4 +1,4 @@
-# BobyamaWalking
+# UnityWalking
 Unityで遺伝的アルゴリズムを使って歩き方を学習させるプログラム。
 
 Generation.cs
